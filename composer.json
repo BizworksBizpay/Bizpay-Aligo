@@ -1,0 +1,17 @@
+{
+    "name": "bizpay/aligo",
+    "description": "aligo sdk",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bizpay\\Aligo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GwangSeong Yang",
+            "email": "bizpay@bizworks.co.kr"
+        }
+    ],
+    "require": {}
+}
